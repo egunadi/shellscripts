@@ -1,0 +1,45 @@
+{
+    "workbench.editorAssociations": {
+        "*.{sqlplan}": "workbench.editor.executionplan"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "notebook.pythonPath": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+    "notebook.useExistingPython": true,
+    "workbench.enablePreviewFeatures": true,
+    "datasource.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "C777F06B-202E-4480-B475-FA416154D458"
+        }
+    ],
+    "datasource.connections": [
+        {
+            "options": {
+                "connectionName": "",
+                "server": "localhost",
+                "database": "",
+                "authenticationType": "SqlLogin",
+                "user": "sa",
+                "password": "",
+                "applicationName": "azdata",
+                "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+                "databaseDisplayName": ""
+            },
+            "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+            "providerName": "MSSQL",
+            "savePassword": true,
+            "id": "a0783f32-3cf5-478c-8318-9e94af103bdd"
+        }
+    ],
+    // https://theptrk.com/2020/05/04/how-to-set-jj-as-esc-in-vscode-vim/
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "k"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["k", "j"],
+            "after": ["<Esc>"]
+        }
+    ]
+}
