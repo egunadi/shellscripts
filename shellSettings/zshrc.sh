@@ -103,11 +103,12 @@ alias d='cd ~/Documents/'       # Navigate to Documents dir
 alias r='cd ~/Documents/References/'      # Navigate to References dir
 alias t='cd ~/Desktop/'       # Navigate to Desktop dir
 alias b='cd ~/Documents/Resources/Books/'       # Navigate to Books dir
-alias gh='cd ~/GitHub/'         # Navigate to GitHub dir
+alias g='cd ~/Git/'         # Navigate to Git dir
+alias gd='cd ~/Google\ Drive/'         # Navigate to Google Drive dir
 alias c='clear'                             # c:            Clear terminal display
-alias rpt='cd ~/GitHub/mi-reporting-mips/'  # Navitage to mi-reporting-mips repo
-alias 77='cd ~/GitHub/mi-core-sql-v77/' # Navitage to mi-core-sql-v77 repo
-alias ps='cd ~/Documents/Resources/DBA/PS/scripts/' # Navitage to PS scripts folder
+alias rpt='cd ~/Git/mi-reporting-mips/'  # Navitage to mi-reporting-mips repo
+alias 77='cd ~/Git/mi-core-sql-v77/' # Navitage to mi-core-sql-v77 repo
+alias ps='cd ~/Documents/Resources/DBA/PS/scripts/mi-core/' # Navitage to PS scripts folder
 pg() {
   open -a postgres
   open -a "pgAdmin 4"
@@ -120,30 +121,27 @@ pgx() {
 sql() {
   open -a Docker
   open -a "Azure Data Studio"
-  ( sleep 30; open -a Kitematic ) &
 }
 sqlx() {
   osascript -e 'quit app "Azure Data Studio"'
-  osascript -e 'quit app "Kitematic"'
   osascript -e 'quit app "Docker"'
 }
 ch() {
   open -a "Google Chrome" $1
 }
 
-# added by Anaconda3 2019.10 installer
-# >>> conda init >>>
+# >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$(CONDA_REPORT_ERRORS=false '/opt/anaconda3/bin/conda' shell.bash hook 2> /dev/null)"
+__conda_setup="$('/opt/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
-    \eval "$__conda_setup"
+    eval "$__conda_setup"
 else
-    if [ -f "/opt/anaconda3/etc/profile.d/conda.sh" ]; then
-        . "/opt/anaconda3/etc/profile.d/conda.sh"
-        CONDA_CHANGEPS1=false conda activate base
+    if [ -f "/opt/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/opt/miniconda3/etc/profile.d/conda.sh"
     else
-        \export PATH="/opt/anaconda3/bin:$PATH"
+        export PATH="/opt/miniconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
-# <<< conda init <<<
+# <<< conda initialize <<<
+
