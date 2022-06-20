@@ -108,7 +108,7 @@ alias gd='cd ~/Google\ Drive/'         # Navigate to Google Drive dir
 alias c='clear'                             # c:            Clear terminal display
 alias rpt='cd ~/Git/mi-reporting-mips/'  # Navitage to mi-reporting-mips repo
 alias 77='cd ~/Git/mi-core-sql-v77/' # Navitage to mi-core-sql-v77 repo
-alias ps='cd ~/Documents/Resources/DBA/PS/scripts/mi-core/' # Navitage to PS scripts folder
+alias ps='cd ~/Git/pstoolbox/mi-core/' # Navitage to PS scripts folder
 pg() {
   open -a postgres
   open -a "pgAdmin 4"
