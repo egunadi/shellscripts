@@ -46,12 +46,8 @@ colorscheme murphy
 " set transparency=20
 syntax on
 set clipboard=unnamed
-execute pathogen#infect()
 filetype plugin indent on
 set ruler laststatus=2 number title hlsearch
-call plug#begin()
-Plug 'zhou13/vim-easyescape'
-call plug#end()
 let g:easyescape_chars = { "j": 1, "k": 1 }
 let g:easyescape_timeout = 100
 cnoremap jk <ESC>
