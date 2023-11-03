@@ -971,6 +971,78 @@
             "name": "",
             "snippet": "red flags",
             "uuid": "{65a4355e-76a0-4420-90a7-ea9815654ab1}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-02T15:30:51.648",
+            "description": "",
+            "enabled": true,
+            "keyword": "otp",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-02T15:30:58.051",
+            "name": "",
+            "snippet": "over the phone",
+            "uuid": "{a5c0180e-e1bb-4fa1-bcf7-0edf1c3e1585}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-02T15:31:10.331",
+            "description": "",
+            "enabled": true,
+            "keyword": "jnow",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-02T15:31:19.691",
+            "name": "",
+            "snippet": "just now",
+            "uuid": "{e64ba7fb-c4b5-4656-a585-04fc6e3eb4cc}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-02T15:33:14.082",
+            "description": "",
+            "enabled": true,
+            "keyword": "iaiaf",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-02T15:33:20.252",
+            "name": "",
+            "snippet": "if any issues are found",
+            "uuid": "{c2fa3b9e-52ac-468d-ba45-8cdfe2baace6}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-02T19:35:17.413",
+            "description": "",
+            "enabled": true,
+            "keyword": "mgmt",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-02T19:35:21.616",
+            "name": "",
+            "snippet": "management",
+            "uuid": "{7f8c2aee-7f6f-4c9b-a069-ab5d99861374}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-02T19:36:51.912",
+            "description": "",
+            "enabled": true,
+            "keyword": "wbst",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-02T19:36:56.243",
+            "name": "",
+            "snippet": "will be sure to",
+            "uuid": "{a1118dc2-2c13-4e54-ad34-25077e0c0f4f}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-02T19:36:57.203",
+            "description": "",
+            "enabled": true,
+            "keyword": "Wbst",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-02T19:37:01.788",
+            "name": "",
+            "snippet": "Will be sure to",
+            "uuid": "{1f563043-8bb8-4d9a-9670-7d6fd25ef52b}"
         }
     ],
     "fileFormatVersion": 10,
