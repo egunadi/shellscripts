@@ -818,18 +818,6 @@
         },
         {
             "caseSensitivity": 0,
-            "creationDateTime": "2023-11-01T13:04:58.716",
-            "description": "",
-            "enabled": true,
-            "keyword": "def",
-            "matchingMode": 0,
-            "modificationDateTime": "2023-11-01T13:05:04.926",
-            "name": "",
-            "snippet": "definitely",
-            "uuid": "{20141ea9-7301-42e2-ba5d-b144c90bbd4d}"
-        },
-        {
-            "caseSensitivity": 0,
             "creationDateTime": "2023-11-01T14:19:12.933",
             "description": "",
             "enabled": true,
@@ -1262,18 +1250,6 @@
         },
         {
             "caseSensitivity": 0,
-            "creationDateTime": "2023-11-03T13:37:43.285",
-            "description": "",
-            "enabled": true,
-            "keyword": "info",
-            "matchingMode": 0,
-            "modificationDateTime": "2023-11-03T13:37:46.717",
-            "name": "",
-            "snippet": "information",
-            "uuid": "{c357af3e-04f0-4dc9-af17-5c384de2f5dc}"
-        },
-        {
-            "caseSensitivity": 0,
             "creationDateTime": "2023-11-03T13:38:34.265",
             "description": "",
             "enabled": true,
@@ -1427,6 +1403,30 @@
             "name": "",
             "snippet": "Sounds like a plan",
             "uuid": "{450e38f3-7c66-4988-a9c2-635873b49978}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-08T14:06:52.854",
+            "description": "",
+            "enabled": true,
+            "keyword": "isne",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-08T14:07:00.895",
+            "name": "",
+            "snippet": "is needed",
+            "uuid": "{8d10067a-1d3a-43c7-a704-d8f1b86688c7}"
+        },
+        {
+            "caseSensitivity": 2,
+            "creationDateTime": "2023-11-08T15:31:56.362",
+            "description": "",
+            "enabled": true,
+            "keyword": "ilft",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-08T15:32:07.022",
+            "name": "",
+            "snippet": "I look forward to",
+            "uuid": "{0ceb5710-c3ce-4667-a2b1-0d7deffb62ef}"
         }
     ],
     "fileFormatVersion": 10,
