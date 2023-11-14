@@ -1427,6 +1427,66 @@
             "name": "",
             "snippet": "I look forward to",
             "uuid": "{0ceb5710-c3ce-4667-a2b1-0d7deffb62ef}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-10T10:55:26.005",
+            "description": "",
+            "enabled": true,
+            "keyword": "wtp",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-10T10:55:34.154",
+            "name": "",
+            "snippet": "with this plan",
+            "uuid": "{ac9794fa-6422-4c44-a19a-5c50c092c9a6}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-13T07:09:58.959",
+            "description": "",
+            "enabled": true,
+            "keyword": "gm,",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-13T07:10:05.971",
+            "name": "",
+            "snippet": "good morning,",
+            "uuid": "{595329b5-ea3b-4df4-b251-1f9e712b7cbb}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-13T07:10:06.556",
+            "description": "",
+            "enabled": true,
+            "keyword": "Gm,",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-13T07:10:13.212",
+            "name": "",
+            "snippet": "Good morning,",
+            "uuid": "{f100972a-2cf4-49f7-99e4-7e49bd85fe40}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-13T09:09:23.130",
+            "description": "",
+            "enabled": true,
+            "keyword": "wyk",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-13T09:09:32.984",
+            "name": "",
+            "snippet": "would you know",
+            "uuid": "{fbb805c8-5bd4-429c-a49b-5db5c40ece25}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-13T09:09:34.441",
+            "description": "",
+            "enabled": true,
+            "keyword": "Wyk",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-13T09:09:41.300",
+            "name": "",
+            "snippet": "Would you know",
+            "uuid": "{60b8dbff-845b-4532-bc12-f66b08e6bd6b}"
         }
     ],
     "fileFormatVersion": 10,
