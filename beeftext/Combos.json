@@ -1487,6 +1487,30 @@
             "name": "",
             "snippet": "Would you know",
             "uuid": "{60b8dbff-845b-4532-bc12-f66b08e6bd6b}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-14T15:23:33.667",
+            "description": "",
+            "enabled": true,
+            "keyword": "sgd",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-14T15:23:39.701",
+            "name": "",
+            "snippet": "sounds good",
+            "uuid": "{d9e6d7da-adcb-4163-9e59-5771d35aa268}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-14T15:23:41.346",
+            "description": "",
+            "enabled": true,
+            "keyword": "Sgd",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-14T15:23:45.940",
+            "name": "",
+            "snippet": "Sounds good",
+            "uuid": "{170ebb50-7b25-42aa-aed1-9cfaaafa1aad}"
         }
     ],
     "fileFormatVersion": 10,
