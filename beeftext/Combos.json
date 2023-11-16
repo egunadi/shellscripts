@@ -1511,6 +1511,42 @@
             "name": "",
             "snippet": "Sounds good",
             "uuid": "{170ebb50-7b25-42aa-aed1-9cfaaafa1aad}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-15T12:12:05.819",
+            "description": "",
+            "enabled": true,
+            "keyword": "fthe",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-15T12:12:10.169",
+            "name": "",
+            "snippet": "for the",
+            "uuid": "{d016dfaa-8072-445c-aad5-f4a27d9d2c64}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-15T12:12:29.795",
+            "description": "",
+            "enabled": true,
+            "keyword": "hup",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-15T12:12:38.370",
+            "name": "",
+            "snippet": "heads-up",
+            "uuid": "{7e3a5721-1e41-4c5c-a6eb-d3434c30858c}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-15T12:41:16.361",
+            "description": "",
+            "enabled": true,
+            "keyword": "nw,",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-15T12:41:22.340",
+            "name": "",
+            "snippet": "no worries,",
+            "uuid": "{1b1228bc-1e4c-4f91-8653-5d63d59e7ad8}"
         }
     ],
     "fileFormatVersion": 10,
