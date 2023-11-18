@@ -1547,6 +1547,42 @@
             "name": "",
             "snippet": "no worries,",
             "uuid": "{1b1228bc-1e4c-4f91-8653-5d63d59e7ad8}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-15T16:40:00.525",
+            "description": "",
+            "enabled": true,
+            "keyword": "gdnc",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-15T16:40:04.065",
+            "name": "",
+            "snippet": "guidance",
+            "uuid": "{31ffffdd-8f32-4f1f-9466-f3cc4c63f696}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-15T16:40:05.873",
+            "description": "",
+            "enabled": true,
+            "keyword": "Gdnc",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-15T16:40:14.812",
+            "name": "",
+            "snippet": "Guidance",
+            "uuid": "{09534cc6-f428-4db2-80f2-855ee0e56482}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-17T09:13:11.045",
+            "description": "",
+            "enabled": true,
+            "keyword": "dnss",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-17T09:13:18.883",
+            "name": "",
+            "snippet": "determine next steps",
+            "uuid": "{014e45ab-a430-485e-ba82-1a60668f6335}"
         }
     ],
     "fileFormatVersion": 10,
