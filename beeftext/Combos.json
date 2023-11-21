@@ -602,18 +602,6 @@
         },
         {
             "caseSensitivity": 0,
-            "creationDateTime": "2023-10-31T16:03:53.548",
-            "description": "",
-            "enabled": true,
-            "keyword": "gotc",
-            "matchingMode": 0,
-            "modificationDateTime": "2023-10-31T16:04:07.757",
-            "name": "",
-            "snippet": "getting on that call",
-            "uuid": "{64cff9f7-52d7-41b7-8263-055854f46046}"
-        },
-        {
-            "caseSensitivity": 0,
             "creationDateTime": "2023-10-31T16:04:08.438",
             "description": "",
             "enabled": true,
@@ -877,13 +865,13 @@
             "uuid": "{0d31824b-e315-4454-b9d7-c157920d9fb6}"
         },
         {
-            "caseSensitivity": 2,
+            "caseSensitivity": 1,
             "creationDateTime": "2023-11-01T14:24:05.894",
             "description": "",
             "enabled": true,
-            "keyword": "otw,",
+            "keyword": "Otw,",
             "matchingMode": 0,
-            "modificationDateTime": "2023-11-01T14:24:34.940",
+            "modificationDateTime": "2023-11-20T10:31:52.492",
             "name": "",
             "snippet": "Otherwise,",
             "uuid": "{91355e2f-f0e2-47bc-ba0c-8571f3f2d0e2}"
@@ -1583,6 +1571,54 @@
             "name": "",
             "snippet": "determine next steps",
             "uuid": "{014e45ab-a430-485e-ba82-1a60668f6335}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-20T08:06:03.173",
+            "description": "",
+            "enabled": true,
+            "keyword": "msg",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-20T08:06:07.083",
+            "name": "",
+            "snippet": "message",
+            "uuid": "{bc93020c-a083-4329-b7ee-5961d299d68b}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-20T10:31:53.797",
+            "description": "",
+            "enabled": true,
+            "keyword": "otw,",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-20T10:32:03.797",
+            "name": "",
+            "snippet": "otherwise,",
+            "uuid": "{e73d4c27-f6d3-47fd-85aa-7a16df914d9e}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-20T14:20:53.068",
+            "description": "",
+            "enabled": true,
+            "keyword": "Ctct",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-20T14:21:06.949",
+            "name": "",
+            "snippet": "Created this Case to document my involvement.",
+            "uuid": "{521c1a97-54c2-45db-9900-7b97130a632a}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-20T14:21:35.928",
+            "description": "",
+            "enabled": true,
+            "keyword": "Pjt",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-20T14:21:45.138",
+            "name": "",
+            "snippet": "Per JIRA Task",
+            "uuid": "{712219f3-ded1-409a-a60e-285243a7744b}"
         }
     ],
     "fileFormatVersion": 10,
