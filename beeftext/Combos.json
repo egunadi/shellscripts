@@ -1619,6 +1619,30 @@
             "name": "",
             "snippet": "Per JIRA Task",
             "uuid": "{712219f3-ded1-409a-a60e-285243a7744b}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-21T11:32:17.519",
+            "description": "",
+            "enabled": true,
+            "keyword": "tc,",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-21T11:32:22.281",
+            "name": "",
+            "snippet": "to confirm,",
+            "uuid": "{5b3e6dc6-f057-4d1d-9d54-cfa5d403f2e6}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-21T11:32:22.848",
+            "description": "",
+            "enabled": true,
+            "keyword": "Tc,",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-21T11:32:26.420",
+            "name": "",
+            "snippet": "To confirm,",
+            "uuid": "{a5434fda-e05b-487e-ad96-9a59543652f7}"
         }
     ],
     "fileFormatVersion": 10,
