@@ -1643,6 +1643,54 @@
             "name": "",
             "snippet": "To confirm,",
             "uuid": "{a5434fda-e05b-487e-ad96-9a59543652f7}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-27T08:26:35.692",
+            "description": "",
+            "enabled": true,
+            "keyword": "st,",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-27T08:26:41.458",
+            "name": "",
+            "snippet": "sure thing,",
+            "uuid": "{186bc6be-6715-4f17-a7d9-150269c7f0d9}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-27T08:26:42.155",
+            "description": "",
+            "enabled": true,
+            "keyword": "St,",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-27T08:26:45.585",
+            "name": "",
+            "snippet": "Sure thing,",
+            "uuid": "{29e1a764-d7c4-4da3-b32b-e43bbbfffc74}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-11-27T12:01:24.832",
+            "description": "",
+            "enabled": true,
+            "keyword": "wcdo",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-27T12:01:28.704",
+            "name": "",
+            "snippet": "we can do",
+            "uuid": "{d5a3eac2-0858-468c-b8a3-06e52982923f}"
+        },
+        {
+            "caseSensitivity": 2,
+            "creationDateTime": "2023-11-27T12:02:10.086",
+            "description": "",
+            "enabled": true,
+            "keyword": "iwaa",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-11-27T12:02:22.886",
+            "name": "",
+            "snippet": "I went ahead and",
+            "uuid": "{c816373c-72be-4270-8081-ffed99b69bc2}"
         }
     ],
     "fileFormatVersion": 10,
