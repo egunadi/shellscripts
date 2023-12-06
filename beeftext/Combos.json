@@ -1775,6 +1775,30 @@
             "name": "",
             "snippet": "with the",
             "uuid": "{63d2dc40-f55c-4acf-ae6a-3e7669b78de3}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-05T08:09:04.154",
+            "description": "",
+            "enabled": true,
+            "keyword": "hbd",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-05T08:09:12.334",
+            "name": "",
+            "snippet": "happy birthday",
+            "uuid": "{0bf36a98-dea5-44de-90ee-5267bce04467}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-05T08:09:13.135",
+            "description": "",
+            "enabled": true,
+            "keyword": "Hbd",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-05T08:09:23.357",
+            "name": "",
+            "snippet": "Happy birthday",
+            "uuid": "{f3694819-2680-43c9-ae2a-da5f7120caae}"
         }
     ],
     "fileFormatVersion": 10,
