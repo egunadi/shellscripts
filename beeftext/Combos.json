@@ -1799,6 +1799,78 @@
             "name": "",
             "snippet": "Happy birthday",
             "uuid": "{f3694819-2680-43c9-ae2a-da5f7120caae}"
+        },
+        {
+            "caseSensitivity": 2,
+            "creationDateTime": "2023-12-11T10:46:42.579",
+            "description": "",
+            "enabled": true,
+            "keyword": "ihtl",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-11T10:46:58.369",
+            "name": "",
+            "snippet": "I hope this letter finds you well",
+            "uuid": "{d22e1397-872d-419a-92c7-fe167457d135}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-11T11:14:50.285",
+            "description": "",
+            "enabled": true,
+            "keyword": "fath",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-11T11:14:57.565",
+            "name": "",
+            "snippet": "for all the help",
+            "uuid": "{c053c9e8-6538-4e01-babc-7ecda9f6d42e}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-11T11:34:47.854",
+            "description": "",
+            "enabled": true,
+            "keyword": "np,",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-11T11:35:07.124",
+            "name": "",
+            "snippet": "no problem,",
+            "uuid": "{0d99f7cb-e19b-4494-b1d8-d798c629dd39}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-11T11:41:04.714",
+            "description": "",
+            "enabled": true,
+            "keyword": "Jlmk",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-11T11:41:09.256",
+            "name": "",
+            "snippet": "Just let me know",
+            "uuid": "{2d89f3a5-4299-41f6-9ab2-67aad702e130}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-11T11:41:10.024",
+            "description": "",
+            "enabled": true,
+            "keyword": "jlmk",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-11T11:41:14.887",
+            "name": "",
+            "snippet": "just let me know",
+            "uuid": "{6a3c9cfa-0a88-4bb9-aca0-24db96d05b52}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-11T13:33:16.062",
+            "description": "",
+            "enabled": true,
+            "keyword": "qoc",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-11T13:33:22.760",
+            "name": "",
+            "snippet": "questions or concerns",
+            "uuid": "{38ed9470-a9a8-4576-9674-b33ffd52f3bf}"
         }
     ],
     "fileFormatVersion": 10,
