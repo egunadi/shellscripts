@@ -1895,6 +1895,18 @@
             "name": "",
             "snippet": "You're",
             "uuid": "{dd752fd1-b763-4de7-874d-ef5c151a8b3f}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-13T13:04:05.574",
+            "description": "",
+            "enabled": true,
+            "keyword": "Np,",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-13T13:04:18.303",
+            "name": "",
+            "snippet": "No problem,",
+            "uuid": "{2905ab28-fa33-47fd-af96-030ed6a53dbc}"
         }
     ],
     "fileFormatVersion": 10,
