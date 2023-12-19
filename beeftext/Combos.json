@@ -1907,6 +1907,42 @@
             "name": "",
             "snippet": "No problem,",
             "uuid": "{2905ab28-fa33-47fd-af96-030ed6a53dbc}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-15T12:44:40.291",
+            "description": "",
+            "enabled": true,
+            "keyword": "Pdsut",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-15T12:44:53.242",
+            "name": "",
+            "snippet": "Provided status update to",
+            "uuid": "{cf275b1d-98c0-42dc-b6f7-a328272d4625}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-15T12:45:13.689",
+            "description": "",
+            "enabled": true,
+            "keyword": "snss",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-15T12:45:21.577",
+            "name": "",
+            "snippet": "suggested next steps",
+            "uuid": "{b7b02d62-ccf0-413f-afc8-37c1563918d8}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-15T12:46:19.342",
+            "description": "",
+            "enabled": true,
+            "keyword": "Cchb",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-15T12:46:57.627",
+            "name": "",
+            "snippet": "Case Comments have been updated.",
+            "uuid": "{f619c095-7683-4d17-b4cc-ef7b39b26b64}"
         }
     ],
     "fileFormatVersion": 10,
