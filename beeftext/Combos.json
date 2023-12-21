@@ -425,9 +425,9 @@
             "creationDateTime": "2023-10-31T08:59:28.501",
             "description": "",
             "enabled": true,
-            "keyword": "ctc",
+            "keyword": "cgtc",
             "matchingMode": 0,
-            "modificationDateTime": "2023-10-31T08:59:43.024",
+            "modificationDateTime": "2023-12-20T11:26:47.280",
             "name": "",
             "snippet": "closing this Case",
             "uuid": "{97f2120c-7429-41bf-bffe-92cfe9fd496e}"
@@ -1943,6 +1943,18 @@
             "name": "",
             "snippet": "Case Comments have been updated.",
             "uuid": "{f619c095-7683-4d17-b4cc-ef7b39b26b64}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2023-12-20T11:26:48.585",
+            "description": "",
+            "enabled": true,
+            "keyword": "ctc",
+            "matchingMode": 0,
+            "modificationDateTime": "2023-12-20T11:27:01.909",
+            "name": "",
+            "snippet": "close this Case",
+            "uuid": "{44876bb5-c609-4bfa-b2ca-860a4d996e36}"
         }
     ],
     "fileFormatVersion": 10,
