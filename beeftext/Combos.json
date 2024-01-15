@@ -1955,6 +1955,30 @@
             "name": "",
             "snippet": "close this Case",
             "uuid": "{44876bb5-c609-4bfa-b2ca-860a4d996e36}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-01-08T13:38:39.405",
+            "description": "",
+            "enabled": true,
+            "keyword": "ddnss",
+            "matchingMode": 0,
+            "modificationDateTime": "2024-01-08T13:39:05.687",
+            "name": "",
+            "snippet": "determined next steps",
+            "uuid": "{198b07f0-bb49-4b57-a686-3a294b9ff873}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-01-15T12:44:49.659",
+            "description": "",
+            "enabled": true,
+            "keyword": "wtai",
+            "matchingMode": 0,
+            "modificationDateTime": "2024-01-15T12:45:09.674",
+            "name": "",
+            "snippet": "with the above information",
+            "uuid": "{5ba37541-c128-4903-b51f-741cbf0c66a2}"
         }
     ],
     "fileFormatVersion": 10,
