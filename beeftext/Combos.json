@@ -1979,6 +1979,18 @@
             "name": "",
             "snippet": "with the above information",
             "uuid": "{5ba37541-c128-4903-b51f-741cbf0c66a2}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-01-18T11:43:51.514",
+            "description": "",
+            "enabled": true,
+            "keyword": "tgbas",
+            "matchingMode": 0,
+            "modificationDateTime": "2024-01-18T11:43:59.530",
+            "name": "",
+            "snippet": "touching base",
+            "uuid": "{23b10a25-39fe-4859-8dd5-e5921031b167}"
         }
     ],
     "fileFormatVersion": 10,
