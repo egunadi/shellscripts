@@ -2027,6 +2027,30 @@
             "name": "",
             "snippet": "Follow up",
             "uuid": "{f691b837-5e4f-4932-a855-c52a099246ac}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-01-31T14:02:04.812",
+            "description": "",
+            "enabled": true,
+            "keyword": "Spant",
+            "matchingMode": 0,
+            "modificationDateTime": "2024-01-31T14:02:46.152",
+            "name": "",
+            "snippet": "Submit pr and notify team",
+            "uuid": "{9a5af474-9602-4e04-9aad-c094d1f09991}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-01-31T14:02:48.157",
+            "description": "",
+            "enabled": true,
+            "keyword": "Spr",
+            "matchingMode": 0,
+            "modificationDateTime": "2024-01-31T14:03:00.607",
+            "name": "",
+            "snippet": "Submit pr",
+            "uuid": "{08fee5bb-c2c8-4f4b-8e73-d77c027fe47d}"
         }
     ],
     "fileFormatVersion": 10,
