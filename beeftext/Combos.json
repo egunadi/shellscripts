@@ -2087,6 +2087,18 @@
             "name": "",
             "snippet": "please feel free to",
             "uuid": "{0cf31297-c78c-46e6-995a-41efa4bec5a6}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-02-07T14:31:46.110",
+            "description": "",
+            "enabled": true,
+            "keyword": "Lft",
+            "matchingMode": 0,
+            "modificationDateTime": "2024-02-07T14:31:51.157",
+            "name": "",
+            "snippet": "Looking forward to",
+            "uuid": "{0d18cfd9-14dd-44cd-9037-ce5652718a3d}"
         }
     ],
     "fileFormatVersion": 10,
