@@ -2191,9 +2191,9 @@
             "enabled": true,
             "keyword": "Ruste",
             "matchingMode": 0,
-            "modificationDateTime": "2024-05-13T09:47:05.599",
+            "modificationDateTime": "2024-06-06T15:05:59.388",
             "name": "",
-            "snippet": "Run updated scripts to ensure to errors are returned",
+            "snippet": "Run updated scripts to ensure no errors are returned",
             "uuid": "{3dcdee72-9159-4735-aebc-b96feff445a5}"
         },
         {
