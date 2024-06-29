@@ -2207,18 +2207,6 @@
             "name": "",
             "snippet": "Provide status update to",
             "uuid": "{a1b0cf65-40e6-4da1-8cd0-942c8bbf05e8}"
-        },
-        {
-            "caseSensitivity": 0,
-            "creationDateTime": "2024-05-28T08:17:23.508",
-            "description": "",
-            "enabled": true,
-            "keyword": "wat",
-            "matchingMode": 0,
-            "modificationDateTime": "2024-05-28T08:17:33.978",
-            "name": "",
-            "snippet": "will assign this",
-            "uuid": "{aa7fcf73-e744-4ea1-b77c-73efbbd9bf72}"
         }
     ],
     "fileFormatVersion": 10,
