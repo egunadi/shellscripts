@@ -28,5 +28,6 @@
             "before": ["K", "J"],
             "after": ["<Esc>"]
         },        
-    ]
+    ],
+    "editor.occurrencesHighlight": false
 }
