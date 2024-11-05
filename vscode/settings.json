@@ -1,0 +1,32 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "remote.SSH.configFile": "c:\\Users\\egunadi\\.ssh\\config",
+    "remote.SSH.connectTimeout": 60,
+    "remote.SSH.remotePlatform": {
+        "sparkjsl": "linux",
+        "caretrack": "linux"
+    },
+    "workbench.colorTheme": "Default Light+",
+    "editor.parameterHints.enabled": false,
+    "git.openRepositoryInParentFolders": "always",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "git.autofetch": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "k"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["k", "j"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["J", "K"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["K", "J"],
+            "after": ["<Esc>"]
+        },        
+    ]
+}
