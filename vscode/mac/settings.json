@@ -1,0 +1,58 @@
+{
+    "powershell.scriptAnalysis.enable": true,
+    "powershell.startAutomatically": true,
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "powershell.enableProfileLoading": false,
+    "powershell.codeFormatting.openBraceOnSameLine": true,
+    "editor.formatOnType": true,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+    "editor.lineHeight": 14,
+    "security.workspace.trust.untrustedFiles": "open",
+    "mssql.connections": [
+        {
+            "server": "localhost",
+            "database": "",
+            "authenticationType": "SqlLogin",
+            "user": "sa",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true
+        }
+    ],
+    "terminal.integrated.inheritEnv": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "k"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["k", "j"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["J", "K"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["K", "J"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "code-runner.runInTerminal": true,
+    "editor.parameterHints.enabled": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.colorTheme": "Quiet Light",
+    "python.defaultInterpreterPath": "/Users/ebengunadi/anaconda3/envs/grids/bin/python",
+    "window.zoomLevel": 1,
+    "git.openRepositoryInParentFolders": "always"
+}
