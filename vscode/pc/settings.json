@@ -27,7 +27,14 @@
         {
             "before": ["K", "J"],
             "after": ["<Esc>"]
-        },        
+        }      
     ],
-    "editor.occurrencesHighlight": false
+    "editor.occurrencesHighlight": "off",
+    "vim.useSystemClipboard": true,
+    "editor.wordWrap": "on",
+    "editor.inlineSuggest.edits.experimental.enabled": false,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "git.allowForcePush": true,
+    "vim.commandLineModeKeyBindings": []
 }
