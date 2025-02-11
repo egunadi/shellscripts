@@ -1,0 +1,10 @@
+{
+    "zoomLevel": 1.2,
+    "theme": "light",
+    "editor.fontFamily": "Consolas",
+    "editor.softWrapEnabled": true,
+    "editor.tabSize": 2,
+    "vimEmulationEnabled": true,
+    "editor.lineSpacing": 1.3,
+    "fus.sendAllowed": false
+}
