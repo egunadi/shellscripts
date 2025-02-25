@@ -51,8 +51,9 @@
     "[python]": {
         "editor.formatOnType": true
     },
-    "workbench.colorTheme": "Quiet Light",
+    "workbench.colorTheme": "Visual Studio Light",
     "python.defaultInterpreterPath": "/Users/ebengunadi/anaconda3/envs/grids/bin/python",
     "window.zoomLevel": 1,
-    "git.openRepositoryInParentFolders": "always"
+    "git.openRepositoryInParentFolders": "always",
+    "editor.occurrencesHighlight": "off"
 }
