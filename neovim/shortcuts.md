@@ -16,10 +16,6 @@
 
 :Telescope buffers
 
-## close current buffer
-
-:bd
-
 # nvim-tree
 
 ## open file explorer 
@@ -40,9 +36,9 @@ o
 
 # quit
 
-## quit the current buffer
+## close current buffer
 
-:q
+:bd
 
 ## quit completely if there are no unsaved changes
 
