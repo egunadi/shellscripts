@@ -50,6 +50,36 @@ o
 
 ## save and quit all buffers
 
-:wqall or :xa
+:xa
 
+### "x" only writes when there are changes. to save regardless of changes, use
+
+:wqa
+
+# terminology
+
+- b: buffer or window
+- a (all): apply to all windows
+- d: delete or close window (not the app)
+- x: exit smartly
+- q (quit): close, which closes the entire app is there is only one file left
+- w (write): save
+
+# paste
+
+## paste from system clipboard
+
+:w <C-r>+
+
+- Hold Control
+- Press r
+- Then press +
+
+### jetbrains fleet
+
+:set clipboard+=unnamed
+
+or
+
+"+y
 
