@@ -2195,6 +2195,30 @@
             "name": "",
             "snippet": "Provide status update to",
             "uuid": "{a1b0cf65-40e6-4da1-8cd0-942c8bbf05e8}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-10-02T22:23:03.641",
+            "description": "",
+            "enabled": true,
+            "keyword": "Mpr",
+            "matchingMode": 0,
+            "modificationDateTime": "2024-10-02T22:23:18.621",
+            "name": "",
+            "snippet": "Merge pr",
+            "uuid": "{857c7b5a-adbf-4a30-81a5-f49a29ccd1db}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2025-04-09T17:35:42.277",
+            "description": "",
+            "enabled": true,
+            "keyword": "ttp",
+            "matchingMode": 0,
+            "modificationDateTime": "2025-04-09T17:35:51.252",
+            "name": "",
+            "snippet": "to this plan",
+            "uuid": "{549e731e-2fcf-4259-9061-e5a0a92bb7f0}"
         }
     ],
     "fileFormatVersion": 10,
