@@ -2,19 +2,32 @@
 
 - https://chatgpt.com/share/67df3a52-47dc-800e-baa3-fea8a8eff339
 
-# switch tabs
+# tab management
 
 ## next buffer
 
 ]b 
 
+or, longer
+:tabnext
+
 ## previous buffer
 
 [b
 
+or, longer
+:tabprev
+
 ## list all open buffers 
 
+space + b
+
+or, longer
 :Telescope buffers
+
+## new tab
+
+:tabnew
 
 # nvim-tree
 
@@ -82,4 +95,43 @@ o
 or
 
 "+y
+
+# layout
+
+## vertical split
+
+:vsplit
+:vsplit filename.txt
+
+shortcut is :vsp
+
+## horizontal split
+
+:split
+:split filename.txt
+
+shortcut is :sp
+
+# navigate splits
+
+ctrl + w + (h/l/k/j)
+
+# syntax highlighting
+
+## by filetype
+
+:set filetype=python
+:set filetype=html
+:set filetype=lua
+
+# compare files
+
+## vertical compare
+
+:vert diffsplit file2.txt
+
+## horizontal compare
+
+:diffsplit file2.txt
+
 
