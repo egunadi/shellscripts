@@ -134,4 +134,7 @@ ctrl + w + (h/l/k/j)
 
 :diffsplit file2.txt
 
+# toggle minimap
+
+:lua require("mini.map").toggle()
 
