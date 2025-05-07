@@ -138,3 +138,8 @@ ctrl + w + (h/l/k/j)
 
 :lua require("mini.map").toggle()
 
+# toggle word wrap
+
+:set wrap
+:set nowrap
+
