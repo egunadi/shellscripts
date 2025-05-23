@@ -36,5 +36,33 @@
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
     "git.allowForcePush": true,
-    "vim.commandLineModeKeyBindings": []
+    "vim.commandLineModeKeyBindings": [],
+    "mssql.connections": [
+        {
+            "server": "localhost",
+            "database": "master",
+            "authenticationType": "SqlLogin",
+            "user": "sa",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true,
+            "encrypt": "Mandatory",
+            "trustServerCertificate": true,
+            "connectTimeout": 15,
+            "commandTimeout": 30,
+            "applicationName": "vscode-mssql",
+            "id": "C6BD71E7-1D3E-41A4-8771-7CFF80716DAD",
+            "groupId": "BE20AD81-E73A-493D-A0D4-6343A5086512",
+            "profileSource": 0
+        }
+    ],
+    "mssql.enableRichExperiences": true,
+    "mssql.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "BE20AD81-E73A-493D-A0D4-6343A5086512"
+        }
+    ],
+    "sqltools.connections": [],
+    "sqltools.highlightQuery": false
 }
