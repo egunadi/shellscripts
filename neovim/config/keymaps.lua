@@ -5,6 +5,9 @@ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode" })
 vim.keymap.set("i", "kj", "<Esc>", { desc = "Exit insert mode" })
 vim.keymap.set("i", "JK", "<Esc>", { desc = "Exit insert mode" })
 vim.keymap.set("i", "KJ", "<Esc>", { desc = "Exit insert mode" })
+vim.keymap.set("n", "<leader>mm", function()
+  require("mini.map").toggle()
+end, { desc = "Toggle Minimap" })
 
 -- Remove any previous mapping
 pcall(vim.api.nvim_del_keymap, "i", "<CR>")
