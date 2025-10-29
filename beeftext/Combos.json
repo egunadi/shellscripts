@@ -1663,7 +1663,7 @@
             "enabled": true,
             "keyword": "wcdo",
             "matchingMode": 0,
-            "modificationDateTime": "2023-11-27T12:01:28.704",
+            "modificationDateTime": "2025-10-29T10:00:02.646",
             "name": "",
             "snippet": "we can do",
             "uuid": "{d5a3eac2-0858-468c-b8a3-06e52982923f}"
@@ -2219,6 +2219,18 @@
             "name": "",
             "snippet": "to this plan",
             "uuid": "{549e731e-2fcf-4259-9061-e5a0a92bb7f0}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2025-10-29T10:00:06.965",
+            "description": "",
+            "enabled": true,
+            "keyword": "ichw",
+            "matchingMode": 0,
+            "modificationDateTime": "2025-10-29T10:00:37.850",
+            "name": "",
+            "snippet": "I can help with",
+            "uuid": "{98d63f83-a3cc-4e5c-91dc-6adeb27d1121}"
         }
     ],
     "fileFormatVersion": 10,
