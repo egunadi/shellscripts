@@ -434,30 +434,6 @@
         },
         {
             "caseSensitivity": 0,
-            "creationDateTime": "2023-10-31T08:59:46.493",
-            "description": "",
-            "enabled": true,
-            "keyword": "cott",
-            "matchingMode": 0,
-            "modificationDateTime": "2023-10-31T08:59:56.711",
-            "name": "",
-            "snippet": "close out this ticket",
-            "uuid": "{c54437b5-d20b-400e-9f2d-96eeb06cbe37}"
-        },
-        {
-            "caseSensitivity": 0,
-            "creationDateTime": "2023-10-31T08:59:59.577",
-            "description": "",
-            "enabled": true,
-            "keyword": "cotc",
-            "matchingMode": 0,
-            "modificationDateTime": "2023-10-31T09:00:10.740",
-            "name": "",
-            "snippet": "close out this Case",
-            "uuid": "{74fc8260-7018-4c57-b300-650c6b821922}"
-        },
-        {
-            "caseSensitivity": 0,
             "creationDateTime": "2023-10-31T09:02:24.930",
             "description": "",
             "enabled": true,
@@ -1931,18 +1907,6 @@
             "name": "",
             "snippet": "Case Comments have been updated.",
             "uuid": "{f619c095-7683-4d17-b4cc-ef7b39b26b64}"
-        },
-        {
-            "caseSensitivity": 0,
-            "creationDateTime": "2023-12-20T11:26:48.585",
-            "description": "",
-            "enabled": true,
-            "keyword": "ctc",
-            "matchingMode": 0,
-            "modificationDateTime": "2023-12-20T11:27:01.909",
-            "name": "",
-            "snippet": "close this Case",
-            "uuid": "{44876bb5-c609-4bfa-b2ca-860a4d996e36}"
         },
         {
             "caseSensitivity": 0,
