@@ -1,0 +1,114 @@
+{
+  "security.workspace.trust.untrustedFiles": "open",
+  "remote.SSH.configFile": "c:\\Users\\egunadi\\.ssh\\config",
+  "remote.SSH.connectTimeout": 60,
+  "remote.SSH.remotePlatform": {
+    "sparkjsl": "linux",
+    "caretrack": "linux"
+  },
+  "editor.parameterHints.enabled": false,
+  "git.openRepositoryInParentFolders": "always",
+  "github.copilot.enable": {
+    "*": true
+  },
+  "git.autofetch": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": [
+        "j",
+        "k"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    },
+    {
+      "before": [
+        "k",
+        "j"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    },
+    {
+      "before": [
+        "J",
+        "K"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    },
+    {
+      "before": [
+        "K",
+        "J"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    }
+  ],
+  "editor.occurrencesHighlight": "on",
+  "vim.useSystemClipboard": true,
+  "editor.wordWrap": "on",
+  "editor.inlineSuggest.edits.experimental.enabled": false,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.allowForcePush": true,
+  "vim.commandLineModeKeyBindings": [],
+  "mssql.connections": [
+    {
+      "server": "localhost",
+      "database": "master",
+      "authenticationType": "SqlLogin",
+      "user": "sa",
+      "password": "",
+      "emptyPasswordInput": false,
+      "savePassword": true,
+      "encrypt": "Mandatory",
+      "trustServerCertificate": true,
+      "connectTimeout": 15,
+      "commandTimeout": 30,
+      "applicationName": "vscode-mssql",
+      "id": "C6BD71E7-1D3E-41A4-8771-7CFF80716DAD",
+      "groupId": "BE20AD81-E73A-493D-A0D4-6343A5086512",
+      "profileSource": 0,
+      "containerName": "sql2022"
+    }
+  ],
+  "mssql.enableRichExperiences": true,
+  "mssql.connectionGroups": [
+    {
+      "name": "ROOT",
+      "id": "BE20AD81-E73A-493D-A0D4-6343A5086512"
+    }
+  ],
+  "sqltools.connections": [],
+  "sqltools.highlightQuery": false,
+  "workbench.colorTheme": "Kiro Light",
+  "mssql.autoDisableNonTSqlLanguageService": true,
+  "amazonQ.suppressPrompts": {
+    "amazonQChatDisclaimer": true,
+    "amazonQSessionConfigurationMessage": true,
+    "codeWhispererConnectionExpired": true,
+    "amazonQSelectDeveloperProfile": true
+  },
+  "amazonQ.allowFeatureDevelopmentToRunCodeAndTests": {},
+  "security.allowedUNCHosts": [
+    "apollo.medinformatix.com"
+  ],
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "python.createEnvironment.trigger": "off",
+  "kiroAgent.trustedCommands": [
+    "powershell -NoProfile -Command \"[System.Management.Automation.PSParser]::Tokenize((Get-Content '.\\ProcessReportPipeline.ps1' -Raw), [ref]$null) | Where-Object { $_.Type -eq 'Unknown' -or $_.Type -eq 'ParseError' }\""
+  ],
+  "kiroAgent.agentModelSelection": "claude-sonnet-4",
+  "telemetry.dataSharingAndPromptLogging.usageAnalyticsAndPerformanceMetrics": false,
+  "telemetry.dataSharingAndPromptLogging.contentCollectionForServiceImprovement": false,
+  "telemetry.dataSharingAndPromptLogging.promptLogging": false,
+  "kiroAgent.codeReferences.referenceTracker": true,
+  "kiroAgent.agentAutonomy": "Supervised",
+  "kiroAgent.modelSelection": "auto"
+}
